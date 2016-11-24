@@ -9,7 +9,11 @@
     "description": "Blogue officiel de Evolution 2626!",
     "postsPerPage": "10"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "Evolution2626",
+    "facebook": "Evolution2626",
+    "github": "Evolution2626"
+  },
   "theme": {
     "name": "casper"
   }

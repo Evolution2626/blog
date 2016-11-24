@@ -4,7 +4,11 @@
     "repositoryName": "blog",
     "branch": "gh-pages"
   },
-  "site": {},
+  "site": {
+    "title": "Evolution 2626 - Blog",
+    "description": "Blogue officiel de Evolution 2626!",
+    "postsPerPage": "10"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "casper"
